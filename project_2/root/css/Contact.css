@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+}
+body{
+    
+    background-color: #eee;
+   
+}
+nav{
+ margin: auto;
+}
+
+body {
+    margin: 0px 
+   }
+
+.col-md-4{
+margin: 20px;
+width: 38%;
+   }
+
+   .mb-3{
+    width: 40%;
+    margin: 20px;
+
+   }
+   .form-select{
+    margin: 0px;
+    width: 40%;
+    height: 30%;
+    margin-top: 20px;
+   }
+   .form-label{
+    margin: 0px;
+   }
+  
+   .mb-6{
+    margin-top: 20px;
+   }
+   .col-12{
+    margin: 20px;
+   }
